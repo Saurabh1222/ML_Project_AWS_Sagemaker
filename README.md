@@ -1,5 +1,5 @@
 ## End To End Sagemaker Project
 
-#Topics Covered
+## Topics Covered
 -- Training Jobs
 -- Inferencing Model
